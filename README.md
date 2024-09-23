@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full-stack web development, ARM Assembly, and Databases**
 
-- 👨‍💻 All of my projects are available at [https://kevindsouza03.github.io/](https://kevindsouza03.github.io/)
+- 👨‍💻 All of my projects are available at [https://kevindsouza03.vercel.app/](https://kevindsouza03.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
