@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDsouza03&hide_progress=true )](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on **TimeLens, and a Self-Driving Car Simulator**
 
-- 🌱 I’m currently learning **Full-stack web development, Databases, and Computer Vision.**
+- 🌱 I’m currently learning **Full-stack web development, Databases, Computer Vision, and Go.**
 
 - 👨‍💻 All of my projects are available at [https://kevindsouza03.vercel.app/](https://kevindsouza03.vercel.app/)
 
