@@ -1,5 +1,5 @@
 <h1 align="center">Hey I'm Kevin</h1>
-<h3 align="center">A lifelong learner and passionate Software Developer</h3>
+<h3 align="center">A lifelong learner and passionate Software Developer.</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinDsouza03&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDsouza03&hide_progress=true )](https://github.com/anuraghazra/github-readme-stats)
