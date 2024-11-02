@@ -17,7 +17,7 @@ Building the future, one line of code at a time.
 
 ### 🛠️ Current Endeavors
 
-- 🔭 Working on **TimeLens** and a **Self-Driving Car Simulator**
+- 🔭 Working on **TimeLens** and a **Self-Driving Car Simulation**
 - 🌱 Expanding knowledge in:
   - Full-stack Web Development
   - Database Architecture
