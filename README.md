@@ -22,7 +22,6 @@ Building the future, one line of code at a time.
   - Full-stack Web Development
   - Database Architecture
   - Computer Vision
-  - Go Programming
 - 👨‍💻 Check out my projects at [kevindsouza03.vercel.app](https://kevindsouza03.vercel.app/)
 
 ---
