@@ -62,8 +62,7 @@ A passionate Software Developer with a love for learning and developing.
 
 ### 🌟 Fun Facts
 
-- 💡 I believe in continuous learning and improvement
-
+- I have a dog named Scarlet!
 ---
 
 <p align="center">
