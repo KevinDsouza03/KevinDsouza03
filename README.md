@@ -8,8 +8,7 @@
 
 ### 🚀 About Me
 
-A passionate Software Developer with an insatiable curiosity for technology and innovation.
-Building the future, one line of code at a time.
+A passionate Software Developer with a love for learning and developing.
 
 [Portfolio](https://kevindsouza03.vercel.app/) | [LinkedIn](#) | [Twitter](#)
 
