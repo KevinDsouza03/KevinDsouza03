@@ -18,7 +18,7 @@ A passionate Software Developer with a love for learning and developing.
 
 - 🔭 Working on **TimeLens** and a **Self-Driving Car Simulation**
 - 🌱 Expanding knowledge in:
-  - Full-stack Web Development
+  - Backend Development
   - Database Architecture
   - Computer Vision
 - 👨‍💻 Check out my projects at [kevindsouza03.vercel.app](https://kevindsouza03.vercel.app/)
