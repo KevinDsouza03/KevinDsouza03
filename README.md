@@ -21,6 +21,7 @@ A passionate Software Developer with a love for learning and developing.
   - Backend Development
   - Database Architecture
   - Computer Vision
+    
 - 👨‍💻 Check out my projects at [kevindsouza03.vercel.app](https://kevindsouza03.vercel.app/)
 
 ---
