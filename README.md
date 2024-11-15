@@ -2,7 +2,7 @@
   
 # 👋 Hello World, I'm Kevin!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Cybersecrity+Analyst;Software+Developer;Lifelong+Learner)](https://git.io/typing-svg)
 
 ---
 
@@ -10,7 +10,7 @@
 
 An aspiring Cybersecurity Analyst with a love for learning and developing.
 
-[Portfolio](https://kevindsouza03.vercel.app/) | [LinkedIn](#) | [Twitter](#)
+[Portfolio](https://kevindsouza03.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/kevindsouza03/) 
 
 ---
 
@@ -18,6 +18,7 @@ An aspiring Cybersecurity Analyst with a love for learning and developing.
 
 - 🔭 Working on **TimeLens** and a **Self-Driving Car Simulation**
 - 🌱 Expanding knowledge in:
+  - Cybersecurity
   - Backend Development
   - Database Architecture
   - Computer Vision
