@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-A passionate Software Developer with a love for learning and developing.
+An aspiring Cybersecurity Analyst with a love for learning and developing.
 
 [Portfolio](https://kevindsouza03.vercel.app/) | [LinkedIn](#) | [Twitter](#)
 
