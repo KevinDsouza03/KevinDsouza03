@@ -16,7 +16,7 @@ An aspiring Cybersecurity Analyst with a love for learning and developing.
 
 ### 🛠️ Current Endeavors
 
-- 🔭 Working on **TimeLens** and a **Self-Driving Car Simulation**
+- 🔭 Working on **TimeLens** and **ICS2**
 - 🌱 Expanding knowledge in:
   - Cybersecurity
   - Backend Development
