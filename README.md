@@ -19,7 +19,6 @@ An aspiring Cybersecurity Analyst with a love for learning and developing.
 - 🔭 Working on **TimeLens** and **ICS2**
 - 🌱 Expanding knowledge in:
   - Cybersecurity
-  - Backend Development
   - Database Architecture
   - Computer Vision
     
