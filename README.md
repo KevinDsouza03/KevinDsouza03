@@ -2,7 +2,7 @@
   
 # 👋 Hello World, I'm Kevin!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Cybersecurity+Analyst;Software+Developer;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Cybersecurity;Software+Developer;Lifelong+Learner)](https://git.io/typing-svg)
 
 ---
 
