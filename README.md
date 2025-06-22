@@ -18,9 +18,9 @@ An aspiring Cybersecurity Analyst with a love for learning and developing.
 
 - 🔭 Working on **TimeLens** and **ICS2**
 - 🌱 Expanding knowledge in:
-  - Cybersecurity
-  - Database Architecture
-  - Computer Vision
+  - Cybersecurity Blue Teaming
+  - Incident Response
+  - Penetration Testing
     
 - 👨‍💻 Check out my projects at [kevindsouza03.vercel.app](https://kevindsouza03.vercel.app/)
 
