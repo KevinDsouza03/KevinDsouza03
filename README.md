@@ -10,7 +10,7 @@
 
 Datacenter Manager, Internal Tooling & Automation @ **SendBlue** with a passion for **Cybersecurity, Infrastructure Automation, and Networking**.
 
-[Portfolio](https://kevindsouza03.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/kevindsouza03/) 
+[Portfolio](https://kevindsouza.dev/) | [LinkedIn](https://www.linkedin.com/in/kevindsouza03/) 
 
 ---
 
